@@ -1,5 +1,5 @@
-## Hi there 👋
-
+## Hi there. My name is Fernando Josue Vides Melendez 👋
+<p>En busca de aprendizaje para mejorarme como programador 😸</p>
 <!--
 **fer-idk/fer-idk** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
